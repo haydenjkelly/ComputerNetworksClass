@@ -7,7 +7,6 @@ import android.view.Menu;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
-	//test
 	private static final String TAG = "LifeCycleMethods";
 	
 	@Override
